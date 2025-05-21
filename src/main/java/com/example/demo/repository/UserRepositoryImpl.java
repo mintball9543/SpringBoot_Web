@@ -1,6 +1,6 @@
-package org.example.springbootexample.repository;
+package com.example.demo.repository;
 
-import org.example.springbootexample.model.User;
+import com.example.demo.model.User;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;

@@ -1,7 +1,7 @@
-package org.example.springbootexample.service;
+package com.example.demo.service;
 
-import org.example.springbootexample.dto.UserDto;
-import org.example.springbootexample.model.User;
+import com.example.demo.dto.UserDto;
+import com.example.demo.model.User;
 
 import java.util.Optional;
 

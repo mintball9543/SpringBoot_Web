@@ -1,8 +1,8 @@
-package org.example.springbootexample.service;
+package com.example.demo.service;
 
-import org.example.springbootexample.dto.UserDto;
-import org.example.springbootexample.model.User;
-import org.example.springbootexample.repository.UserRepository;
+import com.example.demo.dto.UserDto;
+import com.example.demo.model.User;
+import com.example.demo.repository.UserRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

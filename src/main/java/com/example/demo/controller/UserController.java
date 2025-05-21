@@ -1,11 +1,11 @@
-package org.example.springbootexample.contoller;
+package com.example.demo.controller;
 
 import jakarta.servlet.http.HttpSession;
 import jakarta.validation.Valid;
-import org.example.springbootexample.dto.ResponseDto;
-import org.example.springbootexample.dto.UserDto;
-import org.example.springbootexample.model.User;
-import org.example.springbootexample.service.UserService;
+import com.example.demo.dto.ResponseDto;
+import com.example.demo.dto.UserDto;
+import com.example.demo.model.User;
+import com.example.demo.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
